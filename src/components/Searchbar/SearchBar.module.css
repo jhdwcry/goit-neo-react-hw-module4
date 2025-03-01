@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.input{
+    background-color: #242424;
+    color: aliceblue;
+    padding: 8px 30px;
+    border: 1px solid #242424;
+    border-radius: 10px;
+}
+
+.input::placeholder{
+    color: aliceblue;
+}
+
+.searchBtn{
+    padding: 8px 15px;
+    background-color: #242424;
+    border: 1px solid #242424;
+    border-radius: 10px;
+    color: aliceblue;
+}
