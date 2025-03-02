@@ -1,6 +1,6 @@
 .galleryImg{
-  width: 300px; /* або бажаний розмір */
-  height: 200px; /* або бажаний розмір */
-  object-fit: cover; /* Обрізає та масштабує зображення, щоб вони відповідали заданим розмірам */
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
   border-radius: 8px;
 }
